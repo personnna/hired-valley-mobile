@@ -8,3 +8,10 @@ captures
 .cxx
 local.properties
 xcuserdata
+/build/
+*.class
+.env
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
